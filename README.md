@@ -13,11 +13,6 @@ A five-page interactive Power BI report built from a deliberately messy HR datas
 ## Headline numbers
 180 employees, $79K average salary, 6.5 years average tenure, 15.0% attrition rate.
 
-## Files
-- `HR_Dashboard.pbix`: the Power BI report
-- `HR_Dashboard.pdf`: PDF export of the report
-- `HR_Dashboard_Theme.json`: custom theme
-- The dataset and a data quality write-up
 
 ## Tools
 Power BI Desktop, Power Query (M), DAX, Excel
